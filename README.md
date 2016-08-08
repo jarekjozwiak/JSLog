@@ -1,2 +1,2 @@
 # JSLog
-test
+JSLog is a small JavaScript library  
