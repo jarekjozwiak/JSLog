@@ -1,5 +1,5 @@
 # JSLog
-JSLog is a small JavaScript library for logging you data. 
+JSLog is a small JavaScript library for logging your data. 
 
 ```javascript
 var txt = "JavaScript syntax highlighting", 
@@ -9,7 +9,7 @@ var txt = "JavaScript syntax highlighting",
 log(txt, a, b, c);
 ```
 
-Abd the result is:
+And the result is:
 
 ![alt tag](http://jaroo.eu/jslog.jpg)
 
@@ -31,5 +31,5 @@ Just insert JS file on your site (before other scripts of course)
 <script src="JSLog.js"></script>
 ```
 
-Compatible with Chrome. Other browsers in progrss...
+Compatible with Chrome. Other browsers in progress...
 
