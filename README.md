@@ -25,3 +25,11 @@ console.log("a: ", a);
 console.log("b: ", b);
 console.log("c: ", c);
 ```
+
+Just insert JS file on your site (before other scripts of course)
+```
+<script src="src/JSLog.js"></script>
+```
+
+Compatible with Chrome. Other browsers in progrss...
+
